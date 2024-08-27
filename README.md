@@ -3,7 +3,7 @@
 
 
 
-![Super Animation]([https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f2fbd61724c1b8b1231555e46b67c9b6-1676739000/Fox_Sunset/make-lofi-animation-in-pixel-art.gif))
+![Super Animation](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f2fbd61724c1b8b1231555e46b67c9b6-1676739000/Fox_Sunset/make-lofi-animation-in-pixel-art.gif)
 
 <!--<p align="left">
 </p>
